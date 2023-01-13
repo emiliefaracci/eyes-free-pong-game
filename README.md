@@ -10,4 +10,4 @@ pong-audio.py file includes Python code, and requirements.txt includes dependenc
 
 <img width="885" alt="Screenshot 2023-01-13 at 14 46 42" src="https://user-images.githubusercontent.com/116524510/212416199-aee3ecb7-d0cf-48cd-a372-b5181099be7e.png">
 
-<img width="1241" alt="Screenshot 2023-01-13 at 14 44 24" src="https://user-images.githubusercontent.com/116524510/212416200-953652e5-66ef-4ca7-ad69-8308926c28ed.png">
+<img width="885" alt="Screenshot 2023-01-13 at 14 44 24" src="https://user-images.githubusercontent.com/116524510/212416200-953652e5-66ef-4ca7-ad69-8308926c28ed.png">
