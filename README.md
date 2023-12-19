@@ -2,7 +2,7 @@
 
 As part of my Human Computer Interaction class (CMSC 20300) at UChicago, I developed an eyes-free, hands-free version of a Python-based pong game centered around accesibility for users. 
 In order to move the paddles, the user matches the pitch of their voice to the pitch emitted by the game. Instructions and audio cues 
-are given to guide the player.
+are given to guide the player. The skeleton code was provided by the course, while my implementation includes the choice of audio and pitch elements in the game mechanics and speech recognition using Google API.
 
 pong-audio.py file includes Python code, and requirements.txt includes dependencies. Easiest run in a virtual environment.
 
